@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Eco packaging illustration">
+  <defs>
+    <linearGradient id="gg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A237E"/>
+      <stop offset="100%" stop-color="#00793B"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="16" fill="rgba(26,35,126,0.06)"/>
+  <g transform="translate(80,60)">
+    <rect x="0" y="120" width="200" height="120" rx="12" fill="#e8f5e9" stroke="#00793B"/>
+    <rect x="36" y="96" width="128" height="36" rx="6" fill="#c8e6c9"/>
+    <rect x="240" y="60" width="120" height="180" rx="12" fill="#e3f2fd" stroke="#1A237E"/>
+    <rect x="228" y="40" width="144" height="36" rx="8" fill="#bbdefb"/>
+    <circle cx="440" cy="160" r="72" fill="url(#gg)" opacity="0.18"/>
+    <circle cx="440" cy="160" r="44" fill="#ffffff"/>
+    <path d="M430 170 l10 -20 l10 20 z" fill="#00793B"/>
+  </g>
+</svg>
